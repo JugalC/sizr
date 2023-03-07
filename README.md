@@ -1,0 +1,2 @@
+# sizr
+Chrome Extension
